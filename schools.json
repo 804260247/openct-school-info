@@ -242,6 +242,12 @@
     "cmsSys": "custom"
   },
   {
+    "name": "天津大学(仅教务网)",
+    "cmsURL": "http://202.113.5.137/stuslls/login/login",
+    "cmsSys": "custom",
+    "libURL": "http://www.lib.tju.edu.cn/"
+  },
+  {
     "name": "厦门大学嘉庚学院(仅教务网)",
     "cmsURL": "http://jw.xujc.com/",
     "cmsSys": "custom"
